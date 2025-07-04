@@ -33,7 +33,7 @@ The architecture includes multiple convolutional and pooling layers, followed by
 
 ## Dataset
 
-**Source:** CT scan image dataset stored in "Lung cancer detection/train".
+**Source:** CT scan image dataset stored in "Image_Dataset/train".
 
 **Size:** 612 images across 4 classes.
 
