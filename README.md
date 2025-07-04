@@ -39,7 +39,7 @@ The architecture includes multiple convolutional and pooling layers, followed by
 
 **Image Format:** Grayscale medical images (JPEG, JPG, PNG).
 
-**Target Classes:** 4 categories **
+**Target Classes:** 4 categories
 - adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
 - large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
 - normal
